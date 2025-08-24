@@ -44,5 +44,5 @@
 - 축 공유하기
 
 - Matplotlib 텍스트 삽입하기
-- 
+
 - Matplotlib 박스 플롯 그리기
