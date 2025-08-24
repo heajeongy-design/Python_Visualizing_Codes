@@ -1,7 +1,7 @@
 # Visualizing_Codes
 
 ## 목차
-Matplotlib 기본 사용
+- Matplotlib 기본 사용
 
 Matplotlib 축 레이블 설정하기
 
